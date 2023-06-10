@@ -2,9 +2,11 @@
 <h3 allign="center">A 1st year computer science student at Charles Univesity in Prague.</h3>
 <p allign="center">
 
-  - 🌱 I’m currently learning **HTML, CSS and JavaScript**
+  - 🌱 I am currently learning **HTML, CSS and JavaScript**
 
-  - 🔭 I’m currently looking to get some practical experience in the IT department
+  - 🔭 I am currently looking to get some practical experience in the IT department
+
+  - ⚡ I love learning new things especially anything IT related
 </p>
 
 <h3>Languages and Tools:</h3>
