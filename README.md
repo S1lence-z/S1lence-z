@@ -2,7 +2,7 @@
 <h3 allign="center">A 2nd year computer science student at Charles Univesity in Prague.</h3>
 <p allign="center">
 
-  - 🌱 I am currently learning **React and React Native**
+  - 🌱 I am currently learning **React**
 
   - 🔭 I am currently looking to get some practical experience in the IT department
 
