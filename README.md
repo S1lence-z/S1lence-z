@@ -1,5 +1,5 @@
 <h1 allign="center"> Hello 👋, I am Jirka Zelenka</h1>
-<h3 allign="center">A 2nd year computer science student at Charles Univesity in Prague.</h3>
+<h3 allign="center">A 3rd year computer science student at Charles Univesity in Prague.</h3>
 <p allign="center">
 
   - 🌱 I am currently learning **TypeScript and Python for backend**
